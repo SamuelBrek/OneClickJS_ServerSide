@@ -1,0 +1,30 @@
+C:\Users\javix\Documents\UTM\CUATRIMESTRE 5\Tareas\Aplicaciones Web para 14\Tarea resuelta\THE END\OneClickJS.Domain\bin\Debug\net5.0\OneClickJS.Domain.deps.json
+C:\Users\javix\Documents\UTM\CUATRIMESTRE 5\Tareas\Aplicaciones Web para 14\Tarea resuelta\THE END\OneClickJS.Domain\bin\Debug\net5.0\OneClickJS.Domain.runtimeconfig.json
+C:\Users\javix\Documents\UTM\CUATRIMESTRE 5\Tareas\Aplicaciones Web para 14\Tarea resuelta\THE END\OneClickJS.Domain\bin\Debug\net5.0\OneClickJS.Domain.runtimeconfig.dev.json
+C:\Users\javix\Documents\UTM\CUATRIMESTRE 5\Tareas\Aplicaciones Web para 14\Tarea resuelta\THE END\OneClickJS.Domain\bin\Debug\net5.0\OneClickJS.Domain.dll
+C:\Users\javix\Documents\UTM\CUATRIMESTRE 5\Tareas\Aplicaciones Web para 14\Tarea resuelta\THE END\OneClickJS.Domain\bin\Debug\net5.0\ref\OneClickJS.Domain.dll
+C:\Users\javix\Documents\UTM\CUATRIMESTRE 5\Tareas\Aplicaciones Web para 14\Tarea resuelta\THE END\OneClickJS.Domain\bin\Debug\net5.0\OneClickJS.Domain.pdb
+C:\Users\javix\Documents\UTM\CUATRIMESTRE 5\Tareas\Aplicaciones Web para 14\Tarea resuelta\THE END\OneClickJS.Domain\obj\Debug\net5.0\OneClickJS.Domain.csproj.AssemblyReference.cache
+C:\Users\javix\Documents\UTM\CUATRIMESTRE 5\Tareas\Aplicaciones Web para 14\Tarea resuelta\THE END\OneClickJS.Domain\obj\Debug\net5.0\OneClickJS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javix\Documents\UTM\CUATRIMESTRE 5\Tareas\Aplicaciones Web para 14\Tarea resuelta\THE END\OneClickJS.Domain\obj\Debug\net5.0\OneClickJS.Domain.AssemblyInfoInputs.cache
+C:\Users\javix\Documents\UTM\CUATRIMESTRE 5\Tareas\Aplicaciones Web para 14\Tarea resuelta\THE END\OneClickJS.Domain\obj\Debug\net5.0\OneClickJS.Domain.AssemblyInfo.cs
+C:\Users\javix\Documents\UTM\CUATRIMESTRE 5\Tareas\Aplicaciones Web para 14\Tarea resuelta\THE END\OneClickJS.Domain\obj\Debug\net5.0\OneClickJS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\javix\Documents\UTM\CUATRIMESTRE 5\Tareas\Aplicaciones Web para 14\Tarea resuelta\THE END\OneClickJS.Domain\obj\Debug\net5.0\OneClickJS.Domain.dll
+C:\Users\javix\Documents\UTM\CUATRIMESTRE 5\Tareas\Aplicaciones Web para 14\Tarea resuelta\THE END\OneClickJS.Domain\obj\Debug\net5.0\ref\OneClickJS.Domain.dll
+C:\Users\javix\Documents\UTM\CUATRIMESTRE 5\Tareas\Aplicaciones Web para 14\Tarea resuelta\THE END\OneClickJS.Domain\obj\Debug\net5.0\OneClickJS.Domain.pdb
+C:\Users\javix\Documents\UTM\CUATRIMESTRE 5\Tareas\Aplicaciones Web para 14\Tarea resuelta\THE END\OneClickJS.Domain\obj\Debug\net5.0\OneClickJS.Domain.genruntimeconfig.cache
+D:\Cuatrimestre2022\Api\THE END\OneClickJS.Domain\bin\Debug\net5.0\OneClickJS.Domain.deps.json
+D:\Cuatrimestre2022\Api\THE END\OneClickJS.Domain\bin\Debug\net5.0\OneClickJS.Domain.runtimeconfig.json
+D:\Cuatrimestre2022\Api\THE END\OneClickJS.Domain\bin\Debug\net5.0\OneClickJS.Domain.runtimeconfig.dev.json
+D:\Cuatrimestre2022\Api\THE END\OneClickJS.Domain\bin\Debug\net5.0\OneClickJS.Domain.dll
+D:\Cuatrimestre2022\Api\THE END\OneClickJS.Domain\bin\Debug\net5.0\OneClickJS.Domain.pdb
+D:\Cuatrimestre2022\Api\THE END\OneClickJS.Domain\obj\Debug\net5.0\OneClickJS.Domain.csproj.AssemblyReference.cache
+D:\Cuatrimestre2022\Api\THE END\OneClickJS.Domain\obj\Debug\net5.0\OneClickJS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cuatrimestre2022\Api\THE END\OneClickJS.Domain\obj\Debug\net5.0\OneClickJS.Domain.AssemblyInfoInputs.cache
+D:\Cuatrimestre2022\Api\THE END\OneClickJS.Domain\obj\Debug\net5.0\OneClickJS.Domain.AssemblyInfo.cs
+D:\Cuatrimestre2022\Api\THE END\OneClickJS.Domain\obj\Debug\net5.0\OneClickJS.Domain.csproj.CoreCompileInputs.cache
+D:\Cuatrimestre2022\Api\THE END\OneClickJS.Domain\obj\Debug\net5.0\OneClickJS.Domain.dll
+D:\Cuatrimestre2022\Api\THE END\OneClickJS.Domain\obj\Debug\net5.0\ref\OneClickJS.Domain.dll
+D:\Cuatrimestre2022\Api\THE END\OneClickJS.Domain\obj\Debug\net5.0\OneClickJS.Domain.pdb
+D:\Cuatrimestre2022\Api\THE END\OneClickJS.Domain\obj\Debug\net5.0\OneClickJS.Domain.genruntimeconfig.cache
+D:\Cuatrimestre2022\Api\THE END\OneClickJS.Domain\obj\Debug\net5.0\refint\OneClickJS.Domain.dll
